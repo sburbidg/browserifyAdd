@@ -1,0 +1,16 @@
+{
+  "name": "expressintro",
+  "version": "0.1.0",
+  "description": "Tutorial express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Burbidge",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "3.x",
+    "hbs": "*"
+  }
+}
